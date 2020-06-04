@@ -558,3 +558,7 @@ TIBERIANDAWN/Win32/Release/TiberianDawn.tlog/TiberianDawn.write.1u.tlog
 *.ipch
 REDALERT/Win32/Release/CodeAnalysisResultManifest.txt
 TIBERIANDAWN/Win32/Release/CodeAnalysisResultManifest.txt
+bin/Win32/RedAlert.dll.lastcodeanalysissucceeded
+bin/Win32/TiberianDawn.dll.lastcodeanalysissucceeded
+*.sarif
+*.xml
