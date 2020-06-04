@@ -874,8 +874,8 @@ void Load_Title_Screen(char *name, GraphicViewPortClass *video_page, unsigned ch
 
 GraphicBufferClass* Read_PCX_File(char* name, char* palette, void *Buff, long Size)
 {
-	unsigned					i, j;
-	unsigned					rle;
+	unsigned					i{}, j;
+	unsigned					rle{};
 	unsigned					color;
 	unsigned					scan_pos;
 	char						*file_ptr;
